@@ -14,6 +14,7 @@ const App = () => {
             <text x="50" y="50" style={{ font: "italic 16px" }}>
                 ummmmm add something lol
             </text>
+            <text> adding another thing</text>
         </svg>
     );
     
